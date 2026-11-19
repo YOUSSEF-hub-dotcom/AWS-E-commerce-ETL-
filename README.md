@@ -90,4 +90,4 @@ File Formats: CSV (Raw), Parquet + Snappy (Curated)
 Data Modeling: Dimensional Modeling (Star Schema), Window Functions
 
 👥 Author
-Youssef Mahmoud - Data & AI Engineer
+Youssef Mahmoud - Data & AI 
