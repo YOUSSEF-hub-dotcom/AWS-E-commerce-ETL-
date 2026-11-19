@@ -1,4 +1,4 @@
-# 🛍️ Enterprise E-Commerce Data Lakehouse ETL Pipeline
+# 🛍️ E-Commerce Data Lakehouse ETL Pipeline
 
 An end-to-end distributed Big Data ETL pipeline built with **PySpark** on **AWS Glue** and **Amazon S3**. This project processes 12 relational raw e-commerce datasets, applies rigorous data quality checks, transforms schemas, models an analytical Star Schema, and outputs optimized Parquet datasets partitioned for cloud querying.
 
